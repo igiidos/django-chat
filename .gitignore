@@ -1,0 +1,17 @@
+*.pyc
+*~
+__pycache__
+myvenv
+myvenv/*
+db.sqlite3
+.DS_Store
+.idea
+.vscode/
+/media
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+sample_files/
+test_deploy_files
+git_test.py
